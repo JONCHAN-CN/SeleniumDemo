@@ -1,0 +1,15 @@
+MySQL:
+  host: localhost
+  user: root
+  passwd:
+  db: jupinglun
+  port: 3306
+  charset: utf8
+
+
+browser:
+  lang: zh_CN
+  url: https://www.bing.com.cn
+  prd_url: https://www.jupinglun.com/product
+  user_agent:
+  user_data_dir: ./sel
